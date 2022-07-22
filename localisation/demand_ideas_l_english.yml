@@ -1,0 +1,8 @@
+﻿l_english:
+    Foreign_Equipment_Production:0 "Foreign Equipment Production"
+    Leasing_Equipment_Production:0 "Leasing Equipment Production"
+    Foreign_Scientist:0 "Receiving Foreign Scientist"
+    Leasing_Foreign_Scientist:0 "Sending Scientist"
+    Foreign_Diplomats:0 "Receiving Foreign Diplomats"
+    Leasing_Foreign_Diplomats:0 "Sending Diplomats"
+    HasSentDemands:0 "Recently Sent Demands"

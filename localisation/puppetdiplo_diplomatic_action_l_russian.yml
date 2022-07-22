@@ -1,0 +1,8 @@
+﻿l_russian:
+ DEMILITARIZE_SUBJECT_ACTION_TITLE:0 "Объект демилитаризации"
+ DEMILITARIZE_SUBJECT_ACTION_ACTION_DESC:0 "Распустить армию и запретить субъекту обучать подразделения".
+ RESTRICTING_ALLOWED_TOOLTIP:0 "Очистить для демилитаризации [Это.getName С Флагом]."
+ REMILITARIZE_SUBJECT_ACTION_TITLE:0 "Тема ремилитаризации"
+ REMILITARIZE_SUBJECT_ACTION_ACTION_DESC:0 "Разрешить вашему субъекту создавать армию".
+ DERESTRICTING_ALLOWED_TOOLTIP:0 "Очистить для ремилитаризации [Это.getName С Флагом]."
+ DERESTRICTING_DENIED_TOOLTIP:0 "Прошло 7 дней с момента [Этого.getName С флагом] был демилитаризован".

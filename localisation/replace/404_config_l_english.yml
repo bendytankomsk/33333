@@ -1,0 +1,50 @@
+﻿l_english:
+ 
+ 
+ #イベント#
+ aaa_weapon_event.1.t:0 "Task Force 404 Not Found"
+ aaa_weapon_event.1.d:0 "Task Force 404 has arrived. Commander, let's get along from now on\n\nUMP9 has come home! Everybody, we're family now!\n\nAre you the commander? HK416......Please remember this name, this...extraordinary name.\n\nG11...... Commander, are there enough beds around here?"
+ aaa_weapon_event.1.a:0 "welcome"
+ 
+ #ディシジョン#
+ 
+ 404_decisions:0 "Task Force"
+ Task_Force_404_Heckler_und_Koch:0 "Task Force 404 Not Found"
+ 
+
+
+ #特性#
+ Leader_Infiltration_tactics:0 "Infiltration tactics"
+ Leader_Infiltration_tactics_desc:0 ""
+ Front_commander:0 "Commander of Frontline"
+ Front_commander_desc:0 ""
+ Bravery:0 "Bravery"
+ Bravery_desc:0 ""
+ Calmer:0 "Calmer"
+ Calmer_desc:0 ""
+ Staffer:0 "Staffer"
+ Staffer_desc:0 ""
+ Disciplinarian:0 "Disciplinarian"
+ Disciplinarian_desc:0 ""
+ Military_dictatorships:0 "Military dictatorships"
+ Military_dictatorships_desc:0 ""
+ artillery_leader:0 "Artillery leader"
+ artillery_leader_desc:0 ""
+ Heavy_attack:0 "Heavy attack"
+ Heavy_attack_desc:0 ""
+ Storm_eye:0 "Storm Eye"
+ Storm_eye_desc:0 ""
+
+ trait_404:0 "Task Force 404 Not Found"
+ trait_404_desc:0 "404_not_found"
+ 404_tt:0 "Active Tactics:§YGhost Assalt§!\nRecon:§G+20%§!\nAttack:§G+1§!"
+ leader_404:0 "Leader of Task Force 404"
+ leader_404_desc:0 "404_not_found"
+ 404_leader_tt:0 "Increased chance of executing §HBlack Out§! tactics\nRecon:§G+20%§!\nAttack:§G+1§!"
+ 
+ 
+ trait_AR:0 "Task Force Anti-Rain"
+ trait_AR_desc:0 "The Task Force Anti-Rain is an elite unit that can operate independently for long periods of time."
+ trait_AR_tt:0 "Active Tactics:§YDamage Focus§!\nrecon:§G+20%§!\nattack:§G+1§!"
+ tactic_404:0 "Black Out"
+ tactic_AR:0 "Damage Focus"

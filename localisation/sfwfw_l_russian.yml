@@ -1,0 +1,18 @@
+﻿l_russian:
+ GET_SHIPS_TITLE:0 "РЕКВИЗИЦИЯ СУДОВ"
+ GET_SHIPS_DESC:0 "[get_ships_desc]"
+ GET_SHIPS_DESC_1:0 "§Y[?leader_of_losers.getName]§![?] кораблей, которые были удержаны назначенным [?] [assignment_ratio|%Y0]."
+ GET_SHIPS_DESC_x:0 "§Y[?leader_of_losers.getName]§!Начиная с §Y[?num_losers]§!Из судов, которые находились в распоряжении стран [?присвоено [assignment_ratio|%Y0]."
+ SHIPS_LIST_TYPE:0 "[ships_list_type]"
+ 
+ RULE_GROUP_MOD_OPTION:0 "Параметры мода"
+ RESET_TENSION_REVEL:0 "Скапа-Флоу: Победа военного корабля"
+ RULE_OPTION_DEFAULT_NOT_RESET_DESC:0 "Как и ваниль, степень международной напряженности не уменьшается".
+ RULE_OPTION_RESET_50_PERCENTAGE:0 "5 процентов"
+ RULE_OPTION_RESET_50_PERCENTAGE_DESC:0 "Когда все нации будут побеждены, 5% возросшей международной напряженности будет уменьшено. "
+ RULE_OPTION_RESET_80_PERCENTAGE:0 "8 процентов"
+ RULE_OPTION_RESET_80_PERCENTAGE_DESC:0 "Когда все нации будут побеждены, 8% возросшей международной напряженности будет уменьшено".
+ RULE_OPTION_RESET_ALL:0 "Преобразовать"
+ RULE_OPTION_RESET_ALL_DESC:0 "Считается, что у побежденной нации вообще нет повышенной международной напряженности".
+ 
+ 

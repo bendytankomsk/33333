@@ -1,0 +1,73 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_trait_General_Frost"
+		texturefile = "gfx/404_trait/General_Frost.dds"
+	}
+			spriteType = {
+		name = "GFX_trait_Front_commander"
+		texturefile = "gfx/404_trait/Front_commander.dds"
+	}
+			spriteType = {
+		name = "GFX_trait_Leader_Infiltration_tactics"
+		texturefile = "gfx/404_trait/Leader_Infiltration_tactics.dds"
+	}
+			spriteType = {
+		name = "GFX_trait_Military_dictatorships"
+		texturefile = "gfx/404_trait/Military_dictatorships.dds"
+	}
+			spriteType = {
+		name = "GFX_trait_Disciplinarian"
+		texturefile = "gfx/404_trait/Disciplinarian.dds"
+	}
+			spriteType = {
+		name = "GFX_trait_Staffer"
+		texturefile = "gfx/404_trait/Staffer.dds"
+	}
+			spriteType = {
+		name = "GFX_trait_Calmer"
+		texturefile = "gfx/404_trait/Calmer.dds"
+	}
+			spriteType = {
+		name = "GFX_trait_Bravery"
+		texturefile = "gfx/404_trait/Bravery.dds"
+	}
+			spriteType = {
+		name = "GFX_trait_leader_404"
+		texturefile = "gfx/404_trait/trait_404.dds"
+	}
+			spriteType = {
+		name = "GFX_trait_trait_404"
+		texturefile = "gfx/404_trait/trait_404.dds"
+	}
+			spriteType = {
+		name = "GFX_trait_leader_AR"
+		texturefile = "gfx/404_trait/trait_AR.dds"
+	}
+			spriteType = {
+		name = "GFX_trait_trait_AR"
+		texturefile = "gfx/404_trait/trait_AR.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_Heavy_attack"
+		texturefile = "gfx/404_trait/Heavy_attack.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_Storm_eye"
+		texturefile = "gfx/404_trait/Storm_eye.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_artillery_leader"
+		texturefile = "gfx/404_trait/artillery_leader.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_artillery_leader_2"
+		texturefile = "gfx/404_trait/artillery_leader_2.dds"
+	}
+
+
+######################################################################################
+	
+	spriteType = {
+		name = "GFX_tactic_404"
+		texturefile = "gfx/404_trait/tactic_404.dds"
+	}

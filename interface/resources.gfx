@@ -1,0 +1,13 @@
+spriteTypes = {
+	
+	### THUMBNAILS ###
+	
+	spriteType = {
+		name = "close_icon"
+		texturefile = "gfx/interface/close.dds"
+	}
+	spriteType = {
+		name = "open_icon"
+		texturefile = "gfx/interface/open.dds"
+	}
+}

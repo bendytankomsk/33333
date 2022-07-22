@@ -1,0 +1,143 @@
+guiTypes = {
+	
+	containerWindowType = {
+		name = "transfer_navy_popup"
+		position = { x = -263 y = -306}	
+		size = { width = 520 height = 640 }
+		orientation= center
+		moveable = yes
+		fade_time = 200
+		fade_type = linear
+		show_sound = diplomatic_notification
+		hide_sound = menu_close_window
+		click_to_front = yes		
+		
+		background = {
+			name = "Background"	
+			quadTextureSprite ="GFX_diplo_action_license_production_bg"
+		}
+
+		iconType = {
+			name ="diplo_popup_header_bg"
+			spriteType = "GFX_diplo_popup_header_bg"
+			position = { x= 3 y = 8 }
+			allwaystransparent = yes
+			hide = yes
+		}	
+		
+		instantTextBoxType = {
+			name = "title"
+			position = { x = 111 y = 32 }
+			textureFile = ""
+			font = "hoi_18mbs"
+			borderSize = {x = 0 y = 0}
+			text = "GET_SHIPS_TITLE"	
+			maxWidth = 280
+			maxHeight = 24
+			fixedsize = yes
+			format = centre
+		}
+
+		iconType = {
+			name = "sender_flag"
+			quadTextureSprite ="GFX_flag_small2"
+			position = { x= 20 y = 99 }
+			Orientation = "UPPER_LEFT"
+		}	
+
+		iconType = {
+			name ="sender_flag_frame"
+			spriteType = "GFX_diplo_countrylist_flag_frame"
+			position = { x= 16 y = 97 }
+		}
+		
+		iconType = {
+			name = "receiver_flag"
+			quadTextureSprite ="GFX_flag_small2"
+			position = { x= 436 y = 99 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType =
+		{
+			name ="receiver_flag_frame"
+			spriteType = "GFX_diplo_countrylist_flag_frame"
+			position = { x= 433 y = 97 }
+		}
+		
+		instantTextBoxType = {
+			name = "message"
+			position = { x = 68 y = 96 }
+			textureFile = ""
+			font = "hoi_18mbs"
+			borderSize = {x = 0 y = 0}
+			text = "GET_SHIPS_DESC"
+			maxWidth = 360
+			maxHeight = 150
+			format = center
+			scrollbartype = "standardtext_slider"
+		}
+		
+		gridboxtype = {
+			name = "get_ships_list"
+			position = { x = 50 y = 175 }
+			size = { width = 520 height = 640 }
+			slotsize = { width = 520 height = 1 }
+			max_slots_horizontal = 1
+			add_horizontal = no
+		}
+
+		iconType = {
+			name ="diplo_popup_bottom"
+			spriteType = "GFX_diplo_popup_bottom"
+			position = { x= 3 y = 249 }
+			hide = yes
+		}		
+		
+		buttonType = {
+			name = "ok_button"
+			position = { x=188 y =605}
+			quadTextureSprite ="GFX_button_123x34"
+			buttonText = "OK"
+			buttonFont = "hoi_18mbs"
+			shortcut = "RETURN"
+		}
+	}
+	
+	containerWindowType = {
+		name = "ships_list_entry"
+		position = { x = 0 y = 0} 
+		size = { width = 520 height = 110 }
+
+		iconType = {
+			name ="get_ships_icon"
+			spriteType = ""
+			position = { x= 0 y = 0 }
+		}	
+		
+		instantTextBoxType = {
+			name = "get_ships_type"
+			position = { x = 212 y = 0 }
+			textureFile = ""
+			font = "hoi_18mbs"
+			borderSize = {x = 0 y = 0}
+			text = "[list_ships_type]"	
+			maxWidth = 280
+			maxHeight = 24
+			fixedsize = yes
+			format = centre
+		}
+	 
+		instantTextBoxType = {
+			name = "num_get_ships"
+			position = { x = 252 y = 34 }
+			font = "hoi_18mbs"
+			text = "[list_num_ships]"
+			format = centre
+			maxWidth = 200
+			maxHeight = 24
+			fixedsize = yes
+		}
+	}
+	
+}
