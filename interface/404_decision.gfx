@@ -1,0 +1,8 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_decision_404"
+		texturefile = "gfx/404_decision/decision_404.dds"
+	}
+
+
+}

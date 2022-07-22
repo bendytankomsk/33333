@@ -1,0 +1,5 @@
+﻿l_russian:
+ annex_subjects:0 "Объекты приложения"
+ annex_subjects_desc:0 "Мы должны взять под прямой контроль земли наших подданных, чтобы полностью использовать их ресурсы".
+ annex_puppet:0 "Приложение [Из.getName Def]"
+ annex_puppet_desc:0 "Пришло время взять на себя администрирование [From.getName Def]".

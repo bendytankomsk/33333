@@ -1,0 +1,31 @@
+﻿l_english:
+ VVM_disdain_of_politicians:0 "Disdain of Politicians"
+ VVM_desillusioned:0 "Disillusioned"
+ VVM_desillusioned_desc:0 "§LHas lost faith in the cause§!"
+ 
+ VVM_fascist_leanings:0 "Fascist leanings"
+ VVM_fascist_leanings_desc:0 "Is openly fascist"
+ VVM_communist_agitator:0 "Communist agitator"
+ VVM_communist_agitator_desc:0 "Is openly communist"
+ VVM_advocate_of_democracy:0 "Advocate of democracy"
+ VVM_advocate_of_democracy_desc:0 "Believes in the democratic system"
+ VVM_authocratic:0 "Authoritarian"
+ VVM_authocratic_desc:0 "Supporter of authoritarian rule"
+ 
+ VVM_defeatist:0 "Defeatist"
+ VVM_distrusted:0 "Distrusted"
+ VVM_distrusted_desc:0 "§LBeing a turncoat means you are never really trusted by anyone - making life harder.§!"
+ VVM_shamed:0 "Shamed"
+ VVM_shamed_desc:0 "The Samurai ancestry has been shamed. This must be put to right before the dishonor becomes too great to bear."
+ VVN_death_of_a_samurai:0 "The Death of a Samurai"
+ VVN_death_of_a_samurai_desc:0 "The nation comes together to mourn the fallen hero, [?ROOT.VVN_samurai_to_mourn.GetName] who made the ultimate sacrifice. After all, it is the traditions that make the country, and Samurai are definately part of that tradition."
+ VVM_overconfident:0 "Overconfident"
+ VVM_overconfident_desc:0 "§LAlways confident of success. Perhaps this general believes a bit too much in his own ability.§!"
+ VVM_sickly:0 "Medical Condition"
+ VVM_sickly_desc:0 "§LThis commander suffer from a helöath condition, which makes it more likely to become sick.§!"    
+ VVM_forgetful:0 "Forgetful"
+ VVM_forgetful_desc:0 "§LThe short term memory is no longer what it used to be.§!"
+ VVM_past_prime:0 "Past prime years"
+ VVM_past_prime_desc:0 "§LGetting older sometimes means it is harder to take in newe things.§!"
+ 
+ 

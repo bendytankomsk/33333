@@ -1,0 +1,12 @@
+﻿l_english:
+ we_will_never_surrender:0 "We will never Surrender"
+ we_will_never_surrender_desc:0 "We shall defend our island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender."
+ we_will_never_surrender_every_last_bit:0 "We will Fight to the Last"
+ we_will_never_surrender_every_last_bit_desc:0 "Soviet Order No. 270 Fight to the Last."
+ cco_never_surrender:0 "Never Surrender"
+ cco_never_surrender_desc:0 "We shall never surrender."
+ NVRSRENDR_ALL_COUNTRIES_STATUS:0 "Never Surrender Status"
+ RULE_OPTION_NVRSRENDR_OFF:0 "Never Surrender All - OFF"
+ RULE_OPTION_NVRSRENDR_OFF_DESC:0 "Countries must uses decisions to not surrender"
+ RULE_OPTION_NVRSRENDR_ON:0 "Never Surrender All - ON"
+ RULE_OPTION_NVRSRENDR_ON_DESC:0 "All countries shell not surrender"

@@ -1,0 +1,15 @@
+﻿l_english:
+ chart_button_label:0 "Alignment Chart"
+
+ flag_alignment_tip:0 "[THIS.GetName]"
+
+ main_factions_tip:0 "Ruling Party: [THIS.GetRulingParty]\nParty's Ideology: [THIS.GetRulingIdeology]\nParty's Support: [THIS.GetPartySupport]%"
+ 
+ ideology_tip:0 "[THIS.GetRulingIdeology]"
+
+ ### Alignment Triangle main factions ###
+
+ ### Vanilla Code
+ axis_title:0 "[?GER_ally_array^0.GetFactionName]"
+ allies_title:0 "[?ENG_ally_array^0.GetFactionName]"
+ comintern_title:0 "[?SOV_ally_array^0.GetFactionName]"

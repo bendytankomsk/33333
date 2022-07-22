@@ -1,0 +1,15 @@
+﻿l_russian:
+ chart_button_label:0 "Диаграмма выравнивания"
+
+ flag_alignment_tip:0 "[ЭТО.getName]"
+
+ main_factions_tip:0 "Правящая партия: [ЭТО.Получить Правящую партию]\Идеология партии: [ЭТО.Получить правящую идеологию]\Поддержка партии: [ЭТО.GetPartySupport]%"
+ 
+ ideology_tip:0 "[ЭТО.Получить Господствующую идеологию]"
+
+ ### Основные фракции треугольника выравнивания ###
+
+ ### ### Ванильная кока-кола
+axis_title:0 "[?GER_ally_array^0.GetFactionName]"
+ allies_title:0 "[?ENG_ally_array^0.GetFactionName]"
+ comintern_title:0 "[?SOV_ally_array^0.GetFactionName]"

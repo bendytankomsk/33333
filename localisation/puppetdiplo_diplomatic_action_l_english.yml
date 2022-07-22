@@ -1,0 +1,8 @@
+﻿l_english:
+ DEMILITARIZE_SUBJECT_ACTION_TITLE:0 "Demilitarize Subject"
+ DEMILITARIZE_SUBJECT_ACTION_ACTION_DESC:0 "Disband Army and prevent subject from training divisions."
+ RESTRICTING_ALLOWED_TOOLTIP:0 "Clear to demilitarize [This.GetNameWithFlag]."
+ REMILITARIZE_SUBJECT_ACTION_TITLE:0 "Remilitarize Subject"
+ REMILITARIZE_SUBJECT_ACTION_ACTION_DESC:0 "Allow your subject to create an army."
+ DERESTRICTING_ALLOWED_TOOLTIP:0 "Clear to remilitarize [This.GetNameWithFlag]."
+ DERESTRICTING_DENIED_TOOLTIP:0 "7 days have passed since [This.GetNameWithFlag] was demilitarized."

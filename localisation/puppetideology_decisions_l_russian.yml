@@ -1,0 +1,9 @@
+﻿l_russian:
+  puppet_restrictions_military:0 "Демилитаризовать [Из.getName]"
+  remove_puppet_restrictions_military:0 "Remilitarize [From.getName]"
+  remove_restrictions_limit: "§Прошло 7 дней с момента последнего изменения милитаризации§!"
+  restricted_subject: "§Шаблоны блоков и обучение разделению. Армия подданных будет расформирована.§!"
+  restricted_subject_removed: "Ремилитаризация".
+  puppet_restrictions_transfer_navy:0 "Передача военно-морского флота"
+  puppet_restrictions_transfer_airforce:0 "Передача военно-воздушных сил"
+  subject_air force_transfered: "Передача военно-воздушных сил. Останутся только самолеты-носители".

@@ -1,0 +1,145 @@
+﻿l_russian:
+RESISTANCE_TARGET_VALUE:0 "Цель сопротивления: $VALUE|H%0$"
+ RESISTANCE_TARGET_VALUE_CAPPED:0 "Цель сопротивления: $VALUE|H%0$ (ограничено от $VALUE_NON_CAPPED|H%0$)"
+ RESISTANCE_TARGET_MODIFIER_HAS_CLAIM:0 "Контроллер имеет претензию: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_IS_AT_PEACE:0 "Контроллер находится в покое: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_OCCUPIED_CAPITULATED:1 "Оккупированный капитулируется: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_OCCUPIED_IS_EXILE:1 "Занятый находится в ссылке: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_POP_LOW:0 "Состояние низкой численности населения: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_POP_VERY_LOW:0 "Состояние с очень низким уровнем населения: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_PER_STABILITY_LOSS:0 "Низкая стабильность: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_PER_COMPLIANCE:0 "Соответствие: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_STATE_VP:0 "Укажите победные очки £victory_points£: $VALUE|-%0$"
+ RESISTANCE_TARGET_CAP_FOR_NON_COMPLIANCE:0 "Цель сопротивления ограничена от $CUR_TARGET|%0H$ до $CAP|%0H$ и §HCompliance§! необходимо для его дальнейшего сокращения"
+
+ RESISTANCE_DECAY_MODIFIER_HAS_CLAIM:0 "Контроллер имеет претензию: $VALUE|+%0$"
+ RESISTANCE_DECAY_MODIFIER_LOW_RESISTANCE:0 "Низкое сопротивление: ЗНАЧЕНИЕ $|+%0$"
+ RESISTANCE_DECAY_VALUE:0 "Затухание сопротивления: §G$VALUE|3$%§!"
+ RESISTANCE_DECAY_VALUE_CAPED:0 "Затухание сопротивления: §G$VALUE|3$%§! (Ограничено из §G$VALUE_NON_CAPPED|3$%§!)"
+ 
+ RESISTANCE_GROWTH_VALUE:0 "Рост сопротивления: §R$ЗНАЧЕНИЕ|3$%§!"
+ RESISTANCE_GROWTH_VALUE_CAPED:0 "Рост сопротивления: §Значение R$|3$%§! (Ограничено из §R$VALUE_NON_CAPPED|3$%§!)"
+ 
+ RESISTANCE_STRENGTH:1 "Сила сопротивления: $TOT|%2-$"
+ RESISTANCE_EFFECTS:1 "Эффекты сопротивления:"
+ COMPLIANCE_EFFECTS:0 "Эффекты соответствия требованиям:"
+ 
+ COMPLIANCE_STRENGTH:0 "Степень соответствия: $TOT|%2+$"
+ 
+ COMPLIANCE_GROWTH_VALUE:0 "Рост соответствия требованиям: §G$VALUE|3$%§!"
+ COMPLIANCE_GROWTH_VALUE_CAPED:0 "Рост соответствия требованиям: §G$VALUE|3$%§! (Ограничено из §G$VALUE_NON_CAPPED|3$%§!)"
+ 
+ COMPLIANCE_DECAY_VALUE:0 "Рост соответствия требованиям: §R$VALUE|3$%§!"
+ COMPLIANCE_DECAY_VALUE_CAPED:0 "Рост соответствия требованиям: §R$VALUE|3$%§! (Ограничено из §R$VALUE_NON_CAPPED|3$%§!)"
+ 
+ COMPLIANCE_GROWTH_HAS_CLAIM:0 "Контроллер имеет претензию: $VALUE|+%0$"
+ COMPLIANCE_GROWTH_IS_AT_PEACE:0 "Контроллер находится в покое: $VALUE|+%0$"
+ 
+ COMPLIANCE_DECAY_INFO:0 "Дополнительное изменение компиляции:"
+ COMPLIANCE_DECAY_DUE_TO_COMPLIANCE:0 "Высокое соответствие требованиям: §R$VALUE|3$%§!"
+ COMPLIANCE_DECAY_PER_EXILE_LEGITIMACY:1 "Оккупированный находится в изгнании: §R$VALUE|3$%§!"
+ 
+ СОПРОТИВЛЕНИЕ: 0 "Сопротивление"
+ СООТВЕТСТВИЕ ТРЕБОВАНИЯМ:0 "Соответствие требованиям"
+ 
+ LOCAL_RESISTANCE:0 "Локальное сопротивление"
+ LOCAL_COMPLIANCE:0 "Соответствие местным требованиям"
+ 
+ ADDITIONAL_RECRUITABLE_POPULATION_ENTRY:0 "Дополнительная Рекрутируемая популяция: $VALUE|+%3$"
+ RECRUITABLE_POPULATION_ENTRY:0 "Коэффициент рекрутируемого населения: ЗНАЧЕНИЕ $|+%0$"
+ 
+ RESISTANCE_TARGET_FLOW:0 "Разброс сопротивления от $STATE|H$: $FLOW|-%1$"
+ RESISTANCE_DISABLED_INFO:1 "Сопротивление в настоящее время успешно подавляется и не сможет расти дальше, если §Цель HResistance§! достигает $LIMIT|%0H$"
+ 
+ ОККУПАЦИЯ_POLICY_AVAILABLE:0 "Доступно:"
+ OCCUPATION_POLICY_STATE_MODIFIER:0 "Модификатор состояния:"
+ OCCUPATION_POLICY_SUPRESSED_STATE_MODIFIER:0 "Модификатор состояния При подавлении Сопротивления:"
+ OCCUPATION_POLICY_COMPARED_TO_LAW:0 " (По сравнению с $NAME|H$)"
+ OCCUPATION_POLICY_HOLD_CONTROL_TO_SHOW_DELTAS:0 "Удерживать §GControl§! чтобы показать сравнение с действующим законодательством"
+
+ СТРАНА_ОККУПАЦИЯ_ЗАГОЛОВОК:0 "Оккупированные территории"
+ В настоящее время активен модификатор OCCUPATION_MODIFIER_ACTIVE:0 ". Он будет отключен, когда $TYPE|H$ опустится ниже $TO_DISABLE|%0H$"
+ В настоящее время активен модификатор "OCCUPATION_MODIFIER_ACTIVE_WITH_TRIGGER:0 ". Он будет отключен, когда $TYPE|H$ опустится ниже $TO_DISABLE|%0H$ или не будут выполнены следующие условия:"
+
+ OCCUPATION_MODIFIER_NOT_ACTIVE:0 "Модификатор в настоящее время §RNOT§! активный. Он будет включен, когда $TYPE|H$ превысит $TO_ENABLE|%0H$"
+ OCCUPATION_MODIFIER_NOT_ACTIVE_WITH_TRIGGER:1 "Модификатор в настоящее время §RNOT§! активный. Он будет включен, когда значение $TYPE|H$ превысит значение $TO_ENABLE|%0H$ и будут выполнены следующие условия:"
+ 
+ OCCUPATION_MODIFIERS_ON_ENABLE:0 "При активации модификатора будут применяться следующие эффекты:"
+ OCCUPATION_MODIFIERS_ON_DISABLE:0 "При деактивации модификатора будут применяться следующие эффекты:"
+ OCCUPATION_MODIFIERS_TOOLTIP:0 "Следующие модификаторы будут применяться, пока модификатор активен:"
+ 
+ умиротворение: 1 "Умиротворение"
+ no_garrison:1 "Нет гарнизона"
+ автономное занятие:1 "Местная автономия"
+ foreign_civilian_oversight:1 "Гражданский надзор"
+ secret_police_oversight:1 "Тайная полиция"
+ local_police_force_garrison:1 "Местные полицейские силы"
+ освободительные_работники:1 "Освобожденные рабочие"
+ military_governor_ занятие:1 "Военный губернатор"
+ военное правовое положение:1 "Военное положение"
+принудительное трудовое положение:1 "Принудительный труд"
+ harsh_quotas_occupation:1 "Жесткие квоты"
+ brutally_oppressive_occupation:1 "Жестокое угнетение"
+ 
+ COMPLIANCE_ADDITIONAL_DAILY_GAIN:0 "Дополнительный ежедневный прирост соответствия требованиям: $GAIN$"
+ COMPLIANCE_GAIN_IS_DISABLED:0 "§Усиление соответствия требованиям отключено§!"
+ 
+ OCCUPIED_COUNTRY_CORE_COUNT_TOOLTIP:0 "В стране всего $NUM_CORES|H$ основных штатов, и вы контролируете $NUM_CONTROLLED_CORES|H$ этих штатов".
+ OCCUPIED_COUNTRY_MANPOWER_TOOLTIP:0 "В штатах, которые вы контролируете, есть население $NUM_TOTAL_MANPOWER|*H$, и с вашим текущим законом и другими модификаторами вы можете получить доступ к $RATIO|.2H%$ ($NUM_ACCESSED_MANPOWER|*H$) от этой рабочей силы."
+ OCCUPIED_COUNTRY_RESOURCES_TOOLTIP:0 "В контролируемых вами штатах есть $NUM_TOTAL_RESOURCES|0H$ resources ($RESOURCES$), и с вашим текущим законом и другими модификаторами вы можете получить доступ к $RATIO|.2H%$ ($NUM_ACCESSED_RESOURCES|1H$) этих ресурсов."
+ OCCUPIED_COUNTRY_INDUSTRIAL_CAPACITY_TOOLTIP:0 "В контролируемых вами штатах есть $NUM_TOTAL_FACTORIES|0H$ фабрики ($NUM_TOTAL_CIV_FACTORIES|.0$£civ_factory£ $NUM_TOTAL_MIL_FACTORIES|.0$£mil_factory£), и с вашим текущим законодательством и другими модификаторами вы можете получить доступ к $RATIO|.2H%$ ($NUM_ACCESSED_FACTORIES|1H$) этих фабрик."
+ OCCUPIED_COUNTRY_NO_MANPOWER_TOOLTIP:0 "Штаты, которые вы контролируете, не имеют населения".
+ OCCUPIED_COUNTRY_NO_RESOURCES_TOOLTIP:0 "Состояния, которые вы контролируете, не имеют ресурсов".
+ OCCUPIED_COUNTRY_NO_INDUSTRIAL_CAPACITY_TOOLTIP:0 "В стране, которую вы контролируете, нет заводов".
+ OCCUPATION_BAR_CORE_RESISTANCE_TOOLTIP:0 "Среднее сопротивление всех основных состояний контролируемой вами $COUNTRY|H$ равно $RESISTANCE|1%%H$".
+ OCCUPATION_BAR_CORE_COMPLIANCE_TOOLTIP:0 "Среднее соответствие всех основных состояний $COUNTRY|H$, контролируемых вами, составляет $COMPLIANCE|1%%H$".
+ 
+ resource_is_sabotaged:0 "Ресурс саботирован"
+ building_is_sabotaged:0 "Здание подверглось саботажу"
+ sabotaged_resources:0 "Саботируемый ресурс"
+ 
+ ПРОФЕССИЯ_СОРТ_ИМЯ:0 "Имя"
+ ОККУПАЦИЯ_SORT_GARRISON:0 "Гарнизоны"
+ ПРОФЕССИЯ_СОРТ_ЭКОНОМИКА:0 "Экономика"
+ OCCUPATION_SORT_RESISTANCE:0 "Сопротивление"
+ OCCUPATION_SORT_COMPLIANCE:0 "Соответствие требованиям"
+
+ OCCUPATION_SORT_NAME_TOOLTIP:0 "Сортировать по имени"
+ OCCUPATION_SORT_GARRISON_TOOLTIP:0 "Сортировка по требованиям гарнизона"
+ OCCUPATION_SORT_ECONOMY_TOOLTIP:0 "Сортировка по общему количеству фабрик"
+ OCCUPATION_SORT_RESISTANCE_TOOLTIP:0 "Сортировка по сопротивлению"
+ ПОДСКАЗКА OCCUPATION_SORT_COMPLIANCE_TOOLTIP:0 "Сортировать по соответствию"
+ OCCUPATION_PRIMARY_GARRISON_TITLE:0 "Шаблон основного гарнизона"
+ OCCUPATION_CHANGE_GARRISON_DEFAULT_TEMPLATE_TOOLTIP:0 "$SELECTED_TEMPLATE|H$\N Изменить шаблон гарнизонной дивизии для всех оккупированных территорий"
+ OCCUPATION_CHANGE_GARRISON_COUNTRY_TEMPLATE_TOOLTIP:0 "$SELECTED_TEMPLATE|H$\N Изменить шаблон гарнизонной дивизии для всех оккупированных штатов в $OCCUPIED_COUNTRY|H$"
+ OCCUPATION_CHANGE_GARRISON_STATE_TEMPLATE_TOOLTIP:0 "$SELECTED_TEMPLATE|H$\N Поменять шаблон гарнизонной дивизии на $OCCUPIED_STATE|H$"
+ OCCUPATION_GARRISON_STRENGTH_TOOLTIP:2 "Нам нужны $NUMBER|H$ подразделения $SELECTED_TEMPLATE|H$ в качестве гарнизона для защиты от текущего сопротивления.\N Этот гарнизон в настоящее время эффективен в ПРОЦЕНТАХ|H0%."
+ OCCUPATION_GARRISON_STRENGTH_VARIOUS_TOOLTIP:2 "Нам нужны подразделения $NUMBER|H$ различных шаблонов в качестве гарнизона для защиты от текущего сопротивления.\N Этот гарнизон в настоящее время эффективен в ПРОЦЕНТАХ|H0%."
+ OCCUPATION_USE_DEFAULT_TEMPLATE:0 "§Используйте шаблон по умолчанию§!"
+ OCCUPATION_BAD_GARRISON_SPECIAL_FORCES:0 "§Вы не можете выбрать этот шаблон, потому что он содержит батальоны спецназа.§!"
+ OCCUPATION_BAD_GARRISON_NO_SUPPRESSION:0 "§Вы не можете выбрать этот шаблон, потому что его значение подавления равно §H0§!.§!"
+ OCCUPATION_NO_GARRISON_NEEDED:0 "Гарнизон не требуется"
+ OCCUPATION_CURRENT_GARRISON_NO_SUPPRESSION:0 "§R Значение подавления шаблона гарнизона равно §H0§!. Пожалуйста, выберите другой вариант.§!"
+ GARRISON_ENTRY_MANPOWER_TOOLTIP:0 "Рабочая сила на подавление: $РАБОЧАЯ СИЛА|*Ч$\nManpower на подразделение: $MANPOWERDIV|*Ч$"
+ GARRISON_ENTRY_IC_TOOLTIP:0 "Производственные затраты на подавление: £production_cost£$IC|*H$\Производственные затраты на подразделение: £production_cost£$ICDIV|*H$"
+ ПОДСКАЗКА GARRISON_HARDNESS_TOOLTIP:0 "§Твердость§!\ N Твердость шаблона уменьшит потери при работе с сопротивлением."
+ LAW_BONUS_SCALED:0 "§R Этот закон не вступит в силу в полном объеме, пока потребности гарнизона не будут полностью удовлетворены.§!"
+ 
+ GARRISON_LOG:0 "Журнал гарнизона"
+ GARRISON_LOG_LOSSES_IN_IC:0 "§Утеряно оборудование:§! £production_cost£$NUM|*$"
+ GARRISON_LOG_RESISTANCE_ACTIVITY:0 "Деятельность сопротивления"
+ GARRISON_LOG_EMPTY_ACTIVITY:0 "Нет активности в $TIME$".
+ GARRISON_LOG_ACTIVITY_STOPPED:0 "Активность остановлена гарнизоном"
+ GARRISON_LOG_ACTIVITY_SUCCES:0 "Активность не остановлена: $ACTIVITY|R$"
+
+ OCCUPATION_CHANGE_DEFAULT_LAW_TOOLTIP:0 "Изменить гарнизонный закон по умолчанию"
+ OCCUPATION_RESISTANCE_TAB_TOOLTIP:0 "Показать §HResistance§! на карте."
+ OCCUPATION_COMPLIANCE_TAB_TOOLTIP:0 "Показать §Соответствие§! на карте."
+ OCCUPATION_ZOOM_TO_STATE_TOOLTIP:0 "§GClick§! чтобы увеличить масштаб до занятого состояния (состояний)"
+ 
+ resistance_25:0 "Организованное сопротивление"
+ resistance_50:0 "Осмелевшее сопротивление"
+ сопротивление_75:0 "Восстание"
+ сопротивление_90:0 "Восстание"
+ 
+ соответствие требованиям 15:0 "Информаторы"

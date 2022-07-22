@@ -1,0 +1,43 @@
+spriteTypes = {	
+
+		#### Leader trait icons ####
+
+	spriteType = {
+		name = "GFX_trait_VVM_sickly"
+		texturefile = "gfx/interface/traits/icon_6_sick.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_VVM_defeatist"
+		texturefile = "gfx/interface/traits/icon_7_def.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_VVM_desillusioned"
+		texturefile = "gfx/interface/traits/icon_5_des.dds"
+	}
+	
+	
+	spriteType = {
+		name = "GFX_trait_VVM_forgetful"
+		texturefile = "gfx/interface/traits/icon_8_forget.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_VVM_fascist_leanings"
+		texturefile = "gfx/interface/traits/icon_1_f.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_VVM_authocratic"
+		texturefile = "gfx/interface/traits/icon_2_n.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_VVM_communist_agitator"
+		texturefile = "gfx/interface/traits/icon_3_c.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_VVM_advocate_of_democracy"
+		texturefile = "gfx/interface/traits/icon_4_d.dds"
+	}
+	
+}

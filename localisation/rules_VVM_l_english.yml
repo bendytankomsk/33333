@@ -1,0 +1,12 @@
+﻿l_english:
+ VVM_VVM_RULE_GROUP_RANDOM_GENERAL_EVENTS:0 "LEADER RANDOM EVENTS"
+ 
+ VVM_RULE_HISTORICAL_BIRTH_YEARS:0 "Set Historical Birth Years"
+ 
+ VVM_ALL_VANILLA:0 "Base Game"
+ VVM_RULE_OPTION_ALL_VANILLA:0 "Base Game Commanders"
+ VVM_RULE_ALL_VANILLA_DESC:0 "The game will try to set the correct birth year for as many of the starting commanders as possible. Use this option if you aren't using any mods that change starting leaders."
+ 
+ VVM_NONE:0 "None"
+ VVM_RULE_OPTION_NONE:0 "Don't set historical"
+ VVM_RULE_NONE_DESC:0 "The game won't try to set any historical birth years to commanders, instead each starting commander will be assigned a random age. Use this option if you are using a mod that overrides the base game commanders, or if you just want a more random game..."

@@ -1,0 +1,67 @@
+﻿l_english:
+
+remove_naval_treaty:0 "Remove London Naval Treaty"
+
+fastershipbuilding:0 "Faster Ship Building"
+##
+
+faster_shipbuilding_100:0 "Faster Shipbuilding 100%"
+faster_shipbuilding_100_desc:0 "Increases Ship Building Speed By 100%"
+faster_shipbuilding_1:0 "Faster Ship 100%"
+
+##
+
+faster_shipbuilding_200:0 "Faster Shipbuilding 200%"
+faster_shipbuilding_200_desc:0 "Increases Ship Building Speed By 200%"
+faster_shipbuilding_2:0 "Faster Ship 200%"
+
+##
+
+faster_shipbuilding_500:0 "Faster Shipbuilding 500%"
+faster_shipbuilding_500_desc:0 "Increases Ship Building Speed By 500%"
+faster_shipbuilding_3:0 "Faster Shipbuilding 500%"
+
+##
+
+faster_shipbuilding_1000:0 "Faster Shipbuilding 1000%"
+faster_shipbuilding_1000_desc:0 "Increases Ship Building Speed By 1000%"
+faster_shipbuilding_4:0 "Faster Shipbuilding 1000%"
+
+##
+
+faster_shipbuilding_2000:0 "Faster Shipbuilding 2000%"
+faster_shipbuilding_2000_desc:0 "Increases Ship Building Speed By 2000%"
+faster_shipbuilding_5:0 "Faster Shipbuilding 2000%"
+
+##
+
+faster_shipbuilding_5000:0 "Faster Shipbuilding 5000%"
+faster_shipbuilding_5000_desc:0 "Increases Ship Building Speed By 5000%"
+faster_shipbuilding_6:0 "Faster Shipbuilding 5000%"
+
+##
+
+faster_shipbuilding_10000:0 "Faster Shipbuilding 10000%"
+faster_shipbuilding_10000_desc:0 "Increases Ship Building Speed By 10000%"
+faster_shipbuilding_7:0 "Faster Shipbuilding 10000%"
+
+##
+
+faster_shipbuilding_remove_100:0 "Remove Faster Shipbuilding 100%"
+faster_shipbuilding_remove_100_desc:0 "Removes Faster Shipbuilding 100%"
+
+faster_shipbuilding_remove_200:0 "Remove Faster Shipbuilding 200%"
+faster_shipbuilding_remove_200_desc:0 "Removes Faster Shipbuilding 200%"
+
+faster_shipbuilding_remove_500:0 "Remove Faster Shipbuilding 500%"
+faster_shipbuilding_remove_500_desc:0 "Removes Faster Shipbuilding 500%"
+
+faster_shipbuilding_remove_1000:0 "Remove Faster Shipbuilding 1000%"
+faster_shipbuilding_remove_1000_desc:0 "Removes Faster Shipbuilding 1000%"
+
+faster_shipbuilding_remove_5000:0 "Remove Faster Shipbuilding 5000%"
+faster_shipbuilding_remove_5000_desc:0 "Removes Faster Shipbuilding 5000%"
+
+faster_shipbuilding_remove_10000:0 "Remove Faster Shipbuilding 10000%"
+faster_shipbuilding_remove_10000_desc:0 "Removes Faster Shipbuilding 10000%"
+

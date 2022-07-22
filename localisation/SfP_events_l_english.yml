@@ -1,0 +1,73 @@
+﻿l_english:
+ 
+ peace_offer.1.t:0 "Offer Terms of Surrender"
+ peace_offer.1.d:0 "[From.GetNameDef] has offered us peace on conditional terms.  They would keep all of our states which they control.  Should we accept?"
+ peace_offer.1.a:0 "This war is hopelessly lost, let us hope our conquerers are merciful."
+ peace_offer.1.b:0 "No, death before dishonor!"
+ peace_offer.2.t:0 "Offer to Surrender"
+ peace_offer.2.d:0 "[From.GetNameDef] has offered to surrender on conditional terms.  We would keep all of their states that our troops control.  Should we accept?"
+ peace_offer.2.a:0 "We have accomplished what we came to do."
+ peace_offer.2.b:0 "No, we have not come this far only to turn around at the last second!"
+ peace_offer.3.t:0 "Offer White Peace"
+ peace_offer.3.d:0 "[From.GetNameDef] has offered us peace in return for a restoration of the status quo ante bellum. Should we accept?"
+ peace_offer.3.a:0 "This war has devolved into a stalemate, victory is unlikely for either side."
+ peace_offer.3.b:0 "No, the war may yet be won!"
+
+ peace_response.1.t:0 "War Ends!"
+ peace_response.1.d:0 "[From.GetNameDef] has accepted our offer of peace!  We have secured victory and saved many lives!"
+ peace_response.1.a:0 "A wise choice, we would surely have crushed them otherwise."
+ peace_response.2.t:0 "War Continues!"
+ peace_response.2.d:0 "[From.GetNameDef] has rejected our offer of peace!  The war will continue!"
+ peace_response.2.a:0 "Fools, now they will suffer our wrath."
+ peace_response.3.t:0 "War Ends!"
+ peace_response.3.d:0 "[From.GetNameDef] has accepted our offer of peace.  While we may be laid low, we are still alive."
+ peace_response.3.a:0 "Fools, one day we will return and destroy them."
+ peace_response.4.t:0 "War Continues!"
+ peace_response.4.d:0 "[From.GetNameDef] has rejected our offer of peace!  The war will continue!"
+ peace_response.4.a:0 "The enemy sees through are trick!  We are doomed!"
+ peace_response.5.t:0 "War Ends!"
+ peace_response.5.d:0 "[From.GetNameDef] has accepted our offer of peace!  No more lives will be lost in a pointless war."
+ peace_response.5.a:0 "Thank god that miserable war has ended."
+ peace_response.6.t:0 "War Continues!"
+ peace_response.6.d:0 "[From.GetNameDef] has rejected our offer of peace!  The war will continue!"
+ peace_response.6.a:0 "What is the point of spilling more blood?"
+
+ peace_response.7.t:0 "War Ends!"
+ peace_response.7.d:0 "The peace negotiations with [From.From.GetNameDef] have been concluded."
+ peace_response.7.a:0 "One day we will return...."
+ peace_response.8.t:0 "War Ends!"
+ peace_response.8.d:0 "The peace negotiations with [From.From.GetNameDef] have been concluded."
+ peace_response.8.a:0 "That was a successful war."
+ peace_response.9.t:0 "War Ends!"
+ peace_response.9.d:0 "The peace negotiations with [From.From.GetNameDef] have been concluded."
+ peace_response.9.a:0 "Finally, peace..."
+ 
+
+ spf_news.1.t:0 "Treaty Signed"
+ spf_news.1.d:0 "[From.GetNameDef] has accepted [From.From.GetNameDef]'s terms of surrdender.  The two nations have signed a peace 'uti possidetis', or as they possess."
+ spf_news.1.a:0 "Excellent!"
+ spf_news.1.b:0 "This is a disaster!"
+ spf_news.1.c:0 "Another page in the history books."
+ spf_news.2.t:0 "Treaty Signed"
+ spf_news.2.d:0 "[From.GetNameDef] conditionally surrendered to [From.From.GetNameDef].  The two nations have signed a peace 'uti possidetis', or as they possess."
+ spf_news.2.a:0 "Excellent!"
+ spf_news.2.b:0 "This is a disaster!"
+ spf_news.2.c:0 "Another page in the history books."
+ spf_news.3.t:0 "Treaty Signed"
+ spf_news.3.d:0 "[From.GetNameDef] and [From.From.GetNameDef] have signed a peace on status quo ante bellum.  The borders will return to how they were before the start of the war."
+ spf_news.3.a:0 "What a pointless war."
+
+ special.0.t:0 "Welcome to Sue for Peace!"
+ special.0.d:0 "This mod gives three new decisions per country you are at war with, allowing you to end drawn out wars quicker (at the cost of not getting as much land).  However, the AI won't always accept, it depends on how close they are to capitulation.  This mod also allows you to redeclare war if the AI whitepeaces on your behalf (as sometimes happens with scripted events).  Lastly, there is a feature that allows the AI to ask for peace as well, however, due to bugs, you can choose to turn it off (eveyone must select "on" in multiplayer to keep it on).
+ special.0.a:0 "Keep it on!  I enjoy watching my enemies beg for mercy."
+ special.0.b:0 "Turn it off, the AI does not have enough brain cells to handle it."
+ special.2.t:0 "Unfair Peace Deal!"
+ special.2.d:0 "We have been cheated!  Not long ago, we joined the [Root.GetFactionName] in order to improve our standing in the world.  Now, they have signed a peace deal with our enemy, and all our demands have been ignored."
+ special.2.a:0 "We will not stand for this injustice.  The war will continue!"
+ special.2.b:0 "This is unfair, but we are too weak to do anything about it."
+
+ 
+
+
+
+ 
