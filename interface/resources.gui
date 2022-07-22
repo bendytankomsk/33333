@@ -1,0 +1,39 @@
+guiTypes = {
+
+	containerWindowType = {
+		name = "Resource_exploitation_close"
+		position = { x = 6 y = -22 }
+		
+		buttonType = {
+			name = "close"
+			position = { x = 1 y = 1 }
+			spriteType = "close_icon"
+			clicksound = click_default
+			shortcut = "ctrl+a"
+		}
+	}	
+	    containerWindowType = {
+		name = "Resource_exploitation_open"
+		position = { x = 6 y = -22 }
+		
+		buttonType = {
+			name = "open"
+			position = { x = 1 y = 1 }
+			spriteType = "open_icon"
+			clicksound = click_default
+			shortcut = "ctrl+a"
+		}
+	}
+	containerWindowType = {
+		name = "Resource_exploitation_all_open"
+		position = { x = -1000000 y = -100000 }
+		
+		buttonType = {
+			name = "all_open"
+			position = { x = -1000000 y = -1000000 }
+			spriteType = "open_icon"
+			clicksound = click_default
+			shortcut = "ctrl+p"
+		}
+	}
+}	

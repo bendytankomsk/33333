@@ -1,0 +1,72 @@
+guiTypes = {
+	containerWindowType = {
+		name = "demand_state_button_container"
+		position = {x=10 y=455}
+		size = { width=270 height=280 }
+
+		fade_time = 300
+		fade_type = linear
+		moveable = yes
+		
+		background = {
+			name = "Background"
+			spriteType = "GFX_BPT_areadef_conf_bg"
+		}
+
+		instantTextboxType = {
+			name = "title"
+			position = {x=14 y=6}
+			font = "hoi_16mbs"
+			text = "Make Demands Menu! (Limitless Edition)"
+			maxWidth = 340
+			maxHeight = 23
+			format = left
+		}
+		
+		buttonType = {
+			name = "demand_state_button" 
+			position = {x=20 y=35}
+			shortcut = "ctrl+d"
+			spriteType = "GFX_decision_ger_mefo_bills"
+			pdx_tooltip = "demand_state_tooltip"
+			scale = 1.1
+		}
+		
+		buttonType = {
+			name = "demand_puppet_button" 
+			position = {x=70 y=35}
+			shortcut = "ctrl+v"
+			spriteType = "GFX_decision_generic_civil_support"
+			pdx_tooltip = "demand_puppet_tooltip"
+			scale = 1
+		}
+		
+			buttonType = {
+			name = "help_button" 
+			position = {x=225 y=35}
+			shortcut = ""
+			spriteType = "GFX_decision_generic_decision"
+			pdx_tooltip = "help_button_tooltip"
+			scale = 1
+		}
+		
+		buttonType = {
+			name = "demand_tribute_button" 
+			position = {x=120 y=35}
+			shortcut = "ctrl+t"
+			spriteType = "GFX_decision_generic_prepare_civil_war"
+			pdx_tooltip = "demand_tribute_tooltip"
+			scale = 1
+		}
+		
+		buttonType = {
+			name = "demand_demill_button" 
+			position = {x=170 y=35}
+			shortcut = "ctrl+m"
+			spriteType = "GFX_decision_infiltrate_state"
+			pdx_tooltip = "demand_demill_tooltip"
+			scale = 1
+		}
+		
+	}
+}

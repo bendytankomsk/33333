@@ -1,0 +1,168 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_trait_zunou_meiseki"
+		texturefile = "gfx/interface/traits/trait_admiral_mine_sweeper.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_trait_syousu_seiei"
+		texturefile = "gfx/interface/traits/trait_seawolf.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_kinben_ka"
+		texturefile = "gfx/interface/traits/trait_operative_linguist.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_setuyaku_ka"
+		texturefile = "gfx/interface/traits/trait_engineer.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_zinbou_nai"
+		texturefile = "gfx/interface/traits/trait_admiral_mine_layer.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_ranzatu_leader"
+		texturefile = "gfx/interface/traits/trait_thorough_planner.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_aikokusya_leader"
+		texturefile = "gfx/interface/traits/trait_expert_delegator.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_inotidaizi_leader"
+		texturefile = "gfx/interface/traits/trait_admiral_screening_master.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_sireikan_seityou"
+		texturefile = "gfx/interface/traits/trait_aggressive_assaulter.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_sireikan_seityou2"
+		texturefile = "gfx/interface/traits/trait_aggressive_assaulter.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_sireikan_seityou3"
+		texturefile = "gfx/interface/traits/trait_aggressive_assaulter.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_sireikan_seityou4"
+		texturefile = "gfx/interface/traits/trait_aggressive_assaulter.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_sireikan_seityou5"
+		texturefile = "gfx/interface/traits/trait_aggressive_assaulter.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_sireikan_seityou6"
+		texturefile = "gfx/interface/traits/trait_aggressive_assaulter.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_kousoku_sirei"
+		texturefile = "gfx/interface/traits/trait_operative_linguist.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_tokusyu_butai"
+		texturefile = "gfx/interface/traits/trait_commando.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_sensya_syugi"
+		texturefile = "gfx/interface/traits/trait_fast_planner.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_hohei_bouei"
+		texturefile = "gfx/interface/traits/trait_ambusher.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_houhei_engo"
+		texturefile = "gfx/interface/traits/trait_admiral_lancer.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_heisi_kunren"
+		texturefile = "gfx/interface/traits/trait_infantry_expert.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_ki_syu"
+		texturefile = "gfx/interface/traits/trait_operative_demolition_expert.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_sireikan_yori"
+		texturefile = "gfx/interface/traits/trait_expert_delegator.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_kaigai_syuppei"
+		texturefile = "gfx/interface/traits/trait_paratroopers.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_sin_gensui"
+		texturefile = "gfx/interface/traits/trait_expert_delegator.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_sin_syougun"
+		texturefile = "gfx/interface/traits/trait_expert_delegator.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_sakusen_kenkyu"
+		texturefile = "gfx/interface/traits/trait_operative_chemist.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_heihou_gakusyu"
+		texturefile = "gfx/interface/traits/trait_operative_linguist.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_sidan_jukuren"
+		texturefile = "gfx/interface/traits/trait_operative_linguist.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_houi_dassyutu"
+		texturefile = "gfx/interface/traits/trait_operative_escape_artist.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_kyoutyou_kougeki"
+		texturefile = "gfx/interface/traits/trait_admiral_fighter_director.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_ya_syu"
+		texturefile = "gfx/interface/traits/trait_admiral_smoke_screen_expert.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_ei_yu"
+		texturefile = "gfx/interface/traits/trait_expert_delegator.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_ei_yu2"
+		texturefile = "gfx/interface/traits/trait_expert_delegator.dds"
+	}
+		
+}

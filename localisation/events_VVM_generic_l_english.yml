@@ -1,0 +1,156 @@
+﻿l_english:
+ 
+ 
+ VVM_generic_event.1.t:0 "[From.GetName] Retires"
+ VVM_generic_event.1.d:0 "[From.GetRank] [From.GetName] has decided to withdraw from active service and will no longer be available to lead our forces."
+ VVM_generic_event.1.a:0 "Ok"
+ 
+ VVM_generic_event.2.t:0 "[?ROOT.leader_to_remove_id.GetName] Retires"
+ VVM_generic_event.2.d_politician:0 "[?ROOT.leader_to_remove_id.GetName] has decided to withdraw from active service and instead focus on politics. [?ROOT.leader_to_remove_id.GetSheHeCap] will no longer be available to lead our forces. Born in [?ROOT.display_born], [?ROOT.leader_to_remove_id.GetName] turns [?ROOT.display_year] this year."
+ VVM_generic_event.2.d_media:0 "[?ROOT.leader_to_remove_id.GetName] has announced that [?ROOT.leader_to_remove_id.GetSheHe] will from now on focus on writing [?ROOT.leader_to_remove_id.GetHerHis] memoirs. Thus, [?ROOT.display_year] year old [?ROOT.leader_to_remove_id.GetName] retires from active service with immediate effect and will no longer be available to lead our forces."
+ VVM_generic_event.2.d_skilled:0 "Long serving, and highly regarded, [?ROOT.leader_to_remove_id.GetName] has decided to retire at the age of [?ROOT.display_year]. [?ROOT.leader_to_remove_id.GetSheHeCap] will be sorely missed in these dangerous times."
+ VVM_generic_event.2.d_harsh:0 "[?ROOT.leader_to_remove_id.GetName] has announced [?ROOT.leader_to_remove_id.GetHerHis] retirement from active service and will no longer be available to lead our forces. A sigh of relief could be heard from some of [?ROOT.leader_to_remove_id.GetHerHis] troops and fellow officers."
+ VVM_generic_event.2.d_cavalry:0 "[?ROOT.leader_to_remove_id.GetName] has announced that [?ROOT.leader_to_remove_id.GetSheHe] will retire from active service. [?ROOT.leader_to_remove_id.GetName] stated that [?ROOT.leader_to_remove_id.GetSheHe] will spend the rest of [?ROOT.leader_to_remove_id.GetHerHis] days on [?ROOT.leader_to_remove_id.GetHerHis] estate, raising horses."
+ VVM_generic_event.2.d_base:0 "[?ROOT.leader_to_remove_id.GetName], aged [?ROOT.display_year], has decided to withdraw from active service and will no longer be available to lead our forces."
+ 
+ VVM_generic_event.2.a:0 "Ok"
+ 
+ 
+ 
+ VVM_generic_event.5.t:0 "Admiral [?ROOT.leader_to_remove_id.GetName] Retires"
+ VVM_generic_event.5.d:0 "[?ROOT.leader_to_remove_id.GetName] has decided to withdraw from active service at the age of [?ROOT.display_admiral_year], and will no longer be available to command our Fleets."
+ VVM_generic_event.5.a:0 "Ok"
+ 
+ # wounded by shrapnel
+ VVM_generic_event.6.t:0 "[FROM.GetName] Wounded!"
+ VVM_generic_event.6.d:0 "While visiting the front lines during the latest battle, in a desperate attempt to stop the retreat, [FROM.GetName] was hit by shrapnel and taken to a field hospital. \n[FROM.GetName] hopes to be back on [FROM.GetHerHis] feet within a month or so."
+ VVM_generic_event.6.a:0 "Close call"
+ 
+ # Army Leader Retires due to wounds
+ VVM_generic_event.7.t:0 "[FROM.GetName] Gravely Wounded!"
+ VVM_generic_event.7.d_fm:0 "An enemy shell fell on [FROM.GetName]'s headquarters, just as army command was abandoning its position. \n[FROM.GetName] was so badly injured that it is doubtful that [FROM.GetSheHe] will ever get back to active duty. [FROM.GetName] was born in [?ROOT.VVM_born_year], and was [?ROOT.VVM_age] when [FROM.GetHerHis] career ended."
+ VVM_generic_event.7.d_reckless:0 "Leading from the front as per usual, trying to get [FROM.GetHerHis] troops to hold, [FROM.GetName] was hit by several enemy bullets. \n[FROM.GetName] is currently fighting for [FROM.GetHerHis] life in the field hospital, but regardless of the outcome, [FROM.GetSheHe] will most likely never get back to active duty."
+ VVM_generic_event.7.d_cautious:0 "A stray shell hit the rear of [FROM.GetName]'s lines as [FROM.GetHerHis] was preparing to withdraw. Most unfortunately it hit quite close to where [FROM.GetName] was sitting at the moment, and [FROM.GetName] was gravely injured in the blast. Being so close to the field hospital meant that the surgeons managed to save [FROM.GetName]'s life, but [FROM.GetHerHis] fighting days are definately over. \n[FROM.GetName] was born in [?ROOT.VVM_born_year]."
+ VVM_generic_event.7.d_cavalry:0 "[FROM.GetName] charged staright into enemy lines, like in the old days, when attempting to stop the rout of [FROM.GetHerHis] troops. Fighting valaiantly did not help in the end, and [FROM.GetName] was knocked of [FROM.GetHerHis] horse by a shell exploding at close range. \n   The last retreating troops carried [FROM.GetName]'s body back to their lines. It is still not certain whether [FROM.GetName] will survive, but it was undoubtly [FROM.GetName]'s last hurrah."
+ VVM_generic_event.7.d_gen:0 "[FROM.GetName] was badly injured while visiting the front during the latest engagement, and probably won't be leading an army again. Born in [?ROOT.VVM_born_year], [FROM.GetName] was [?ROOT.VVM_age] when the career ending tragedy occured."
+ VVM_generic_event.7.a:0 "Sad"
+ 
+ # Severely wounded 
+ VVM_generic_event.8.t:0 "[FROM.GetName] Severely Wounded"
+ VVM_generic_event.8.d:0 "[FROM.GetName]'s command post was shelled during the latest battle. [FROM.GetName] was injured and taken to a field hospital. \n[FROM.GetName] is determined to get back to the front, but there are questions to whether [FROM.GetSheHe] will recover fully from the experience."
+ VVM_generic_event.8.a:0 "Too bad"
+ VVM_seriously_injured_tt:0 "Risks lowering one or more skill levels"
+ 
+ # Defect
+ VVM_generic_event.9.t:0 "[FROM.GetName] Defects!"
+ VVM_generic_event.9.d:0 "After having lost the last battle, [FROM.GetName] decided that [FROM.GetSheHe] had had enough and simply abandoned [FROM.GetHerHis] troops."
+ VVM_generic_event.9.a:0 "Wait, what?"
+ 
+ # Blames Leaders
+ VVM_generic_event.10.t:0 "[FROM.GetName] Blames [ROOT.GetLeader]"
+ VVM_generic_event.10.d:0 "Media favorite [FROM.GetName] delivered a scathing attack on [ROOT.GetRulingParty] in general and [ROOT.GetLeader] in particular when interviewed by media after the latest battle. \n   [FROM.GetName] claimed that the debacle was due to the politicians mismanagement of the war. Had it been up to the Generals to run things as they saw fit, this would never have happened."
+ VVM_generic_event.10.a:0 "Blame Game"
+ 
+ # Defect part 2
+ VVM_generic_event.11.t:0 "[?FROM.leader_to_defect_id.GetName] joins the [ROOT.GetAdjective] army!"
+ VVM_generic_event.11.d:0 "In a bit of a surprise move move, [?FROM.leader_to_defect_id.GetName] decided to leave our enemies and join our side. The war goes on and we need men who know our enemy, so..."
+ VVM_generic_event.11.a:0 "As long as [?FROM.leader_to_defect_id.GetSheHe]'s not a spy"
+ 
+ # Abandon hope 
+ VVM_generic_event.12.t:0 "[FROM.GetName] downbeat after latest loss"
+ VVM_generic_event.12.d_fm:0 "Field Marshall [FROM.GetName] refused to blame the latest defeat on [FROM.GetHerHis] Generals, saying they did their best. Instead [FROM.GetSheHe] feels the whole situation is hopeless."
+ VVM_generic_event.12.d_des:0 "Already desillusioned [FROM.GetName] claims the latest defeat in the field was nothing more than expected. He went on to say to people around  him that this war is a lost cause. \n   [FROM.GetSheHe] is quoted as having said that [ROOT.GetLeader] should surrender now in order to not needlessly waste life." 
+ VVM_generic_event.12.d_generic:0 "A gloomy [FROM.GetName] filed his report after the latest defeat in the field. [FROM.GetName] believes this is just the beginning of the end. That the army will suffer more defeats in the days and weeks to come. [FROM.GetSheHe] will of course continue the fight, but [FROM.GetSheHe] have little hope of success in the long run."
+ VVM_generic_event.12.a:0 "[FROM.getName] is overreacting, surely"
+ 
+ # Desillusioned
+ VVM_generic_event.13.t:0 "[FROM.GetName] gloomy after defeat"
+ VVM_generic_event.13.d_fm:0 "Field Marshall [FROM.GetName] appeared extremely gloomy after the last battle. His subortinates reported that he hardly spoke to them during the debriefing."
+ VVM_generic_event.13.d_generic:0 "Rumors are circulating after [FROM.GetName]'s latest defeat in the field. He is reported to have muttered to himself about fighting for a lost cause. However, [FROM.GetSheHe] hasn't expressed any formal complaints or opinions. \n   It is the belief of army command that [FROM.GetName] should be monitored."
+ VVM_generic_event.13.a:0 "Oh"
+ 
+ #Shamed
+ VVM_generic_event.14.t:0 "[FROM.GetName]'s honor tarnished"
+ VVM_generic_event.14.d:0 "[FROM.GetName] feels [FROM.GetSheHe] has let [FROM.GetHerHis] Samurai ancestry down by failing to win against [FROM.GetHerHis] enemies. \n   [FROM.GetName] is determined to right this wrong, or die trying.\n   The soldiers serving under [FROM.GetName]'s command have beem heard questioning [FROM.GetHerHis] leadership."
+ VVM_generic_event.14.a:0 "I wonder what will come out of this"
+ VVN_ATTACK_TT:0 "Counterattack"
+ 
+ #Seppuku
+ VVM_generic_event.15.t:0 "Seppuku"
+ VVM_generic_event.15.d:0 "Having failed to restore his honor on the field of battle, and having lost yet another battle, the dishonor became to great for [FROM.GetName]. \n   In honor of his Samurai lineage, [FROM.GetName] took his life, seconded by his trusted aide.\n  While they mourn the loss of their commander, the soldiers that served under [FROM.GetName] have vowed to avenge his heroic death."
+ VVM_generic_event.15.a:0 "Shin no Samurai"
+ 
+ #coward
+ VVM_generic_event.16.t:0 "[FROM.GetName] accused of cowardice"
+ VVM_generic_event.16.d:0 "After the latest retreat, [FROM.GetName] was accused of cowardice by fellow officers. Claims were made that [FROM.GetName] decided to withdraw when there was still a chance to win. [FROM.GetName] blatantly denies having retreated prematurely. Stating instead that [FROM.GetSheHe] was a hero by saving his men from a dangerous position that threatened to destroy them all."
+ VVM_generic_event.16.a:0 "Right"
+ 
+ #war hero
+ VVM_generic_event.17.t:0 "A new [ROOT.GetAdjective] hero"
+ VVM_generic_event.17.d_generic:0 "After [FROM.GetHerHis] latest victory, [FROM.GetName] has been branded a national hero by the [ROOT.GetAdjective] people.\n   Times like these need heroes, and in [FROM.GetName] [ROOT.GetNameDef] has certainly found one."
+ VVM_generic_event.17.d_reckless:0 "Charging headlong at the enemy might not be the most subtle of tactics, nor normally the best one. But it does win the heart of the general public. \n   [FROM.GetName] has been declared a hero of [ROOT.GetNameDef]."
+ VVM_generic_event.17.d_brilliant_strategist:0 "Everyone's impressed by [FROM.GetName]'s clever strategies. The stories of how [FROM.GetSheHe] outmanouvered the enemy in [FROM.GetHerHis] latest victory are taking on epic proportions.\n   This country needs heroes, and in [FROM.GetName] the people have certainly found one."
+ VVM_generic_event.17.d_harsh_leader:0 "Winning battles makes a commander a hero in the people's eyes, although not always in the eyes of the soldiers. \n   Not famous for [FROM.GetHerHis] tereatment of [FROM.GetHerHis] men, [FROM.GetName] gets the job done, and that brings fame."
+ VVM_generic_event.17.d_old_guard:0 "Old soldiers never die. Some fade away, some continue to win battles. Stubbord, foolishly so some would say, and unnerving, [FROM.GetName] has won the heart of the general public with his attitude, and with his victories in the field. \n [FROM.GetName], aged [?ROOT.VVM_age], certainly showed the reformers that the old ways still work."
+ VVM_generic_event.17.d_media_personality:0 "The headlines are all filled with the name of the moment, [FROM.GetName]. After having won the latest battle, it appears that every single newspaper has picked up the story, and all are naming [FROM.GetName] the hero.\n   Whether this is the actual case appears not to matter that much, [ROOT.GetName] needs a hero right now."
+ VVM_generic_event.17.a:0 "One could argue that it was the troops who did the work"
+ 
+ 
+ #Overconfident
+ VVM_generic_event.18.t:0 "[FROM.GetName] certain of victory"
+ VVM_generic_event.18.d:0 "After his latest victory in the field, [FROM.GetName] declared a firm belief that [FROM.GetSheHe] would lead [ROOT.GetName] to victory.\n   All [ROOT.GetLeader] has to do, according to  [FROM.GetName], is give [FROM.GetName] free reins, and the rest of the war will be a walk in the park."
+ VVM_generic_event.18.d_cavalry:0 "[FROM.GetName] declared, after [FROM.GetHerHis] latest victory that the enemies of [ROOT.GetNameDef] would be vanquished soon. If [ROOT.GetLeader] just gave me 8 more cavalry divisions and I would capture [?FROM.VVM_enemy_country_capital.GetName] within weeks, [FROM.GetName] added."
+ VVM_generic_event.18.d_armor_officer:0 "The wars of [ROOT.GetNameDef] could soon be over; [FROM.GetName] triumphantly declared after [FROM.GetHerHis] victory. In just a few weeks, [FROM.GetName] continues, [FROM.GetHerHis] tanks would be rolling through the streets of central [?FROM.VVM_enemy_country_capital.GetName]."
+ VVM_generic_event.18.a:0 "Is that so?"
+ 
+ #Regained Hope
+ VVM_generic_event.19.t:0 "[FROM.GetName] upbeat after victory"
+ VVM_generic_event.19.d:0 "[FROM.GetName] held a strong speech to [FROM.GetHerHis] troops after the battle, praising their courage and claimed that this war can still be won. This is a rather stark contrast to the mood displayed earlier by [FROM.GetName]."
+ VVM_generic_event.19.a:0 "A victorious battle can do wonders for morale"
+ 
+ #This should be easy
+ VVM_generic_event.20.t:0 "[FROM.GetName] should win this easily"
+ VVM_generic_event.20.d:0 "During a speech, [?ROOT.overconfident_leader_id.GetName], declared that [ROOT.GetName] would have no trouble winning the newly started war against  [?FROM.VVM_target_country_easy.GetName]. \n Beating [?FROM.VVM_target_country_easy.GetName] is basically like stealing candy from a child. Their army is no match for the proud [ROOT.GetAdjective] forces, [?ROOT.overconfident_leader_id.GetName] continued."
+ VVM_generic_event.20.a:0 "We'd better win then"
+ 
+ 
+ # Restored honor 
+ VVM_generic_event.24.t:0 "Honor is restored"
+ VVM_generic_event.24.d:0 "[FROM.getName] fought valiantly to erase the memory of [FROM.GetHerHis] earlier defat, on several occasion leading from the front, exposing [FROM.GetHerHis]self for grave danger. \n   This victory surely removes whatever shame the previous defeat may have brought upon [FROM.getName]."
+ VVM_generic_event.24.a:0 "Good"
+ 
+ 
+ # Retire a random leader due to failing health
+ VVM_generic_event.26.t:0 "Health issues takes their toll"
+ VVM_generic_event.26.d:0 "[?ROOT.leader_to_remove_id.GetName] has announced [?ROOT.leader_to_remove_id.GetHerHis] decision to retire. The main reason for this decision, according to [?ROOT.leader_to_remove_id.GetName] is advancing age in combination with a failing health.\n   [?ROOT.leader_to_remove_id.GetName] now wishes to continue [?ROOT.leader_to_remove_id.GetHerHis] days in relative solitude and peace and quiet. Trying to get as much out of [?ROOT.leader_to_remove_id.GetHerHis] last years as possible."
+ VVM_generic_event.26.a:0 "Understandable"
+ 
+ # Public Questions Promotion
+ VVM_generic_event.27.t:0 "[?ROOT.leader_to_display_id.GetName]'s Promotion Questioned by General Public"
+ VVM_generic_event.27.d:0 "The general public questions the decision to promote [?ROOT.leader_to_display_id.GetName] to Field Marshal. \n   In the eyes of the people of [ROOT.GetName], the appointment should have gone to a hero like [?ROOT.VVM_leader_people_want_ID.GetName] instead."
+ VVM_generic_event.27.a:0 "Yes, but they aren't in charge"
+ 
+ # criticize leadership
+ VVM_generic_event.28.t:0 "[?ROOT.leader_to_display_id.GetName] Critizes [ROOT.GetLeader]"
+ VVM_generic_event.28.d:0 "[?ROOT.leader_to_display_id.GetName] has let several persons in [?ROOT.leader_to_display_id.GetHerHis] immediate surroundings know that [?ROOT.leader_to_display_id.GetSheHe] thinks that [ROOT.GetRulingParty] in general, and [ROOT.GetLeader] in particular, is doing a bad job at leading [ROOT.GetNameDef]. \n   It is as yet unclear whether [?ROOT.leader_to_display_id.GetName] is planning anything, but heroes of the people voicing such opinions is a dangerous thing."
+ VVM_generic_event.28.a:0 "[?ROOT.leader_to_display_id.GetSheHe] should focus on winning battles instead"
+ 
+ 
+ VVM_generic_event.30.t:0 "[FROM.GetName] Promoted"
+ 
+ 
+ # Choice of FM questioned / Political Intrigue
+ VVM_generic_event.31.t:0 "[?ROOT.leader_to_display_id.GetName]'s Promotion Questioned"
+ VVM_generic_event.31.d:0 "Several high ranking party members have questioned the decision to promote [?ROOT.leader_to_display_id.GetName] to Field Marshal. \n   They argue that  [?ROOT.VVM_leader_politicians_want_ID.GetName] should have been promoted instead."
+ VVM_generic_event.31.a:0 "Friends in high places..."
+ 
+ 
+ # Upset at being bypassed
+ VVM_generic_event.32.t:0 "[?ROOT.leader_to_display_id.GetName]'s Promotion not popular with [?ROOT.VVM_leader_bypassed_ID.GetName]"
+ VVM_generic_event.32.d:0 "[?ROOT.VVM_leader_bypassed_ID.GetName] is apparantly extremely upset at [?ROOT.leader_to_display_id.GetName]'s promotion to Field Marshal. \n   [?ROOT.VVM_leader_bypassed_ID.GetName] had expected that [?ROOT.VVM_leader_bypassed_ID.GetSheHe] would be next in line for promotion."
+ VVM_generic_event.32.a:0 "If [?ROOT.VVM_leader_bypassed_ID.GetName] could just focus on [?ROOT.VVM_leader_bypassed_ID.GetHerHis] job instead"
+ 
+ # Publically denounced
+ VVM_generic_event.33.t:0 "Media Hunt"
+ VVM_generic_event.33.d:0 "[?ROOT.leader_to_display_id.GetName]'s promotion was heavilyy criticized in today's newspaper. The article claimed that [?ROOT.leader_to_display_id.GetName] was promoted to Field Marshal mainly because of personal connections, and not becase [?ROOT.leader_to_display_id.GetSheHe]deserved it. \n   The same article mentioned [?ROOT.VVM_leader_bypassed_ID.GetName] as a more suitable candidate."
+ VVM_generic_event.33.a:0 "Luckily the media aren't running this war"

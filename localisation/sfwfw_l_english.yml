@@ -1,0 +1,18 @@
+﻿l_english:
+ GET_SHIPS_TITLE:0 "艦艇の接収"
+ GET_SHIPS_DESC:0 "[get_ships_desc]"
+ GET_SHIPS_DESC_1:0 "§Y[?leader_of_losers.GetName]§!が保有していた艦艇の[?assignment_ratio|%Y0]を獲得した"
+ GET_SHIPS_DESC_x:0 "§Y[?leader_of_losers.GetName]§!をはじめとして§Y[?num_losers]§!ヶ国が保有していた艦艇の[?assignment_ratio|%Y0]を獲得した"
+ SHIPS_LIST_TYPE:0 "[ships_list_type]"
+ 
+ RULE_GROUP_MOD_OPTION:0 "Modオプション"
+ RESET_TENSION_REVEL:0 "敗戦による国際緊張度の減少 - Scapa Flow: Win for Warship"
+ RULE_OPTION_DEFAULT_NOT_RESET_DESC:0 "バニラ同様、国際緊張度は減少しません。 "
+ RULE_OPTION_RESET_50_PERCENTAGE:0 "5割"
+ RULE_OPTION_RESET_50_PERCENTAGE_DESC:0 "全ての国家は敗戦すると、高めた国際緊張度のうち5割が軽減されます。 "
+ RULE_OPTION_RESET_80_PERCENTAGE:0 "8割"
+ RULE_OPTION_RESET_80_PERCENTAGE_DESC:0 "全ての国家は敗戦すると、高めた国際緊張度のうち8割が軽減されます。　"
+ RULE_OPTION_RESET_ALL:0 "改心"
+ RULE_OPTION_RESET_ALL_DESC:0 "敗戦した国家はまったく国際緊張度を高めていないとみなされます。 "
+ 
+ 

@@ -1,0 +1,6 @@
+﻿l_english: 
+ demand_state_tooltip:0 "§HDemand A State§!\nThis action is more successful if you are neighboring the country and/or are more powerful than them."
+ demand_puppet_tooltip:0 "§HDemand Vassalization§!\nThis action is more successful if you are neighboring the country and/or are more powerful than them. This action can only be done on countries that are at peace."
+ help_button_tooltip:0 "§HHelp§!\nJust press the buttons over the states. All of the actions do not require any Political Power!"
+ demand_tribute_tooltip:0 "§HDemand Tribute§!\nThis action is more successful if you are neighboring the country and/or are more powerful than them."
+ demand_demill_tooltip:0 "§HDemand Demilitarization of a State§!\nThis action is more successful if you are neighboring the country and/or are more powerful than them. Along with this the country will be able to remilliterize this state once they're at war with another country."

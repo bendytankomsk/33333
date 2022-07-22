@@ -1,0 +1,12 @@
+﻿l_russian:
+ we_will_never_surrender:0 "Мы никогда не сдадимся"
+ we_will_never_surrender_desc:0 "Мы будем защищать наш остров, чего бы это ни стоило, мы будем сражаться на пляжах, мы будем сражаться на посадочных площадках, мы будем сражаться в полях и на улицах, мы будем сражаться на холмах; мы никогда не сдадимся".
+ we_will_never_surrender_every_last_bit:0 "Мы будем сражаться до последнего"
+ we_will_never_surrender_every_last_bit_desc:0 "Советский приказ № 270 Сражайтесь до последнего".
+ cco_never_surrender:0 "Никогда не сдавайся"
+ cco_never_surrender_desc:0 "Мы никогда не сдадимся".
+ NVRSRENDR_ALL_COUNTRIES_STATUS:0 "Статус никогда не сдается"
+ RULE_OPTION_NVRSRENDR_OFF:0 "Никогда не сдавайтесь полностью"
+ RULE_OPTION_NVRSRENDR_OFF_DESC:0 "Страны должны принимать решения, чтобы не сдаваться"
+ RULE_OPTION_NVRSRENDR_ON:0 "Никогда не сдавайтесь Ва -БАНК"
+ RULE_OPTION_NVRSRENDR_ON_DESC:0 "Все страны не должны сдаваться"

@@ -1,0 +1,25 @@
+﻿l_russian:
+ propose_peace_category:0 "Propose Peace"
+ propose_peace_category_desc:0 "While we have gained significant ground, the war has become a stalemate. Therefore it is best if we end the war now and retain what we have instead of pursuing an unconditional surrender."
+ conditional_surrender_category:0 "Conditional Surrender"
+ conditional_surrender_category_desc:0 "The enemy has taken much of our land, and victory looks hopeless.  Let us sue for peace and retain what we have instead of fighting till our destruction."
+ white_peace_category:0 "White Peace"
+ white_peace_category_desc:0 "The war has become a stalemate, and victory looks unlikely for either side.  Let us spare more bloodshed and return back to our former borders."
+ 
+ propose_peace:0 "Propose Peace to [From.GetNameDef]"
+ propose_peace_desc:0 "WARNING: If allies are at war with this country as well, you will be kicked from the faction if the peace is accepted."
+ conditional_surrender:0 "Conditional Surrender to [From.GetNameDef]"
+ conditional_surrender_desc:0 "WARNING: If allies are at war with this country as well, you will be kicked from the faction if the peace is accepted."
+ white_peace:0 "Restore the Status Quo with [From.GetNameDef]"
+ white_peace_desc:0 "WARNING: If allies are at war with this country as well, you will be kicked from the faction if the peace is accepted."
+
+ resume_war:0 "Resume War"
+ declare_war_decision_1:0 "Declare War on [From.GetNameDef] (1)"
+ declare_war_decision_2:0 "Declare War on [From.GetNameDef] (2)"
+ 
+ war_begun:0 "Less Than 2 Months At War"
+ side_1:0 "Old Enemy Country (1)"
+ side_2:0 "Old Enemy Country (2)"
+ 
+ 
+ 

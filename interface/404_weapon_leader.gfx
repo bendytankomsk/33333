@@ -1,0 +1,58 @@
+spriteTypes = {	
+
+		spriteType = {
+		name = "GFX_portrait_Army_g11"
+		texturefile = "gfx/404_weapon_leader/Army_g11.dds"
+	}
+		spriteType = {
+		name = "GFX_portrait_Army_hk416"
+		texturefile = "gfx/404_weapon_leader/Army_hk416.dds"
+	}
+		spriteType = {
+		name = "GFX_portrait_Army_ump45"
+		texturefile = "gfx/404_weapon_leader/Army_ump45.dds"
+	}
+		spriteType = {
+		name = "GFX_portrait_Army_ump9"
+		texturefile = "gfx/404_weapon_leader/Army_ump9.dds"
+	}
+
+
+
+		spriteType = {
+		name = "GFX_portrait_Army_M4A1"
+		texturefile = "gfx/404_weapon_leader/Army_M4A1.dds"
+	}
+		spriteType = {
+		name = "GFX_portrait_Army_M16A1"
+		texturefile = "gfx/404_weapon_leader/Army_M16A1.dds"
+	}
+		spriteType = {
+		name = "GFX_portrait_Army_RO635"
+		texturefile = "gfx/404_weapon_leader/Army_RO635.dds"
+	}
+		spriteType = {
+		name = "GFX_portrait_Army_SOPMOD2"
+		texturefile = "gfx/404_weapon_leader/Army_SOPMOD2.dds"
+	}
+		spriteType = {
+		name = "GFX_portrait_Army_STAR15"
+		texturefile = "gfx/404_weapon_leader/Army_STAR15.dds"
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

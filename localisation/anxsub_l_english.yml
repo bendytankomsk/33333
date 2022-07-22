@@ -1,0 +1,5 @@
+﻿l_english:
+ annex_subjects:0 "Annex Subjects"
+ annex_subjects_desc:0 "We must take direct control of our subjects' land to fully exploit their resources."
+ annex_puppet:0 "Annex [From.GetNameDef]"
+ annex_puppet_desc:0 "The time has come to take over the administration of [From.GetNameDef]."

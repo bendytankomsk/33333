@@ -1,0 +1,85 @@
+﻿l_russian:
+ 
+ 
+VVM_generic_event.1.t:0 "[From.getName] Удаляется"
+ VVM_generic_event.1.d:0 "[From.getRank] [From.getName] решил уйти с активной службы и больше не будет доступен для руководства нашими силами".
+ VVM_generic_event.1.a:0 "Ok"
+ 
+ VVM_generic_event.2.t:0 "[?ROOT.leader_to_remove_id.getName] Уходит в отставку"
+ VVM_generic_event.2.d_politician:0 "[?ROOT.leader_to_remove_id.getName] решил уйти с действительной службы и вместо этого сосредоточиться на политике. [?ROOT.leader_to_remove_id.GetSheHeCap] больше не будет доступен для руководства нашими силами. Родился в [?ROOT.display_born], [?ROOT.leader_to_remove_id.getName] превращается в [?ROOT.display_year] в этом году."
+ VVM_generic_event.2.d_media:0 "[?ROOT.leader_to_remove_id.getName] объявил, что [?ROOT.leader_to_remove_id.GetSheHe] отныне сосредоточится на написании [?ROOT.leader_to_remove_id.Получите его] мемуары. Таким образом, [?ROOT.display_year] год [?ROOT.leader_to_remove_id.getName] уходит с действительной службы с немедленным вступлением в силу и больше не сможет руководить нашими силами".
+ VVM_generic_event.2.d_skilled:0 "Давно служит и высоко ценится [?ROOT.leader_to_remove_id.getName] решил уйти на пенсию в возрасте [?ROOT.display_year]. [?ROOT.leader_to_remove_id.GetSheHeCap] будет очень не хватать в эти опасные времена".
+ VVM_generic_event.2.d_harsh:0 "[?ROOT.leader_to_remove_id.getName] объявил [?ROOT.leader_to_remove_id.Гетерхис] уходит в отставку с действительной службы и больше не сможет руководить нашими войсками. Вздох облегчения можно было услышать от некоторых [?ROOT.leader_to_remove_id.Получите его] войска и товарищей-офицеров".
+ VVM_generic_event.2.d_cavalry:0 "[?ROOT.leader_to_remove_id.getName] объявил, что [?ROOT.leader_to_remove_id.Гетшехе] уйдет в отставку с действительной службы. [?ROOT.leader_to_remove_id.getName] указано, что [?ROOT.leader_to_remove_id.GetSheHe] потратит остаток [?ROOT.leader_to_remove_id.GetHerHis] дней на [?ROOT.leader_to_remove_id.Гетерхис] поместье, разводит лошадей".
+ VVM_generic_event.2.d_base:0 "[?ROOT.leader_to_remove_id.getName], в возрасте [?ROOT.display_year], решил уйти с действительной службы и больше не будет доступен для руководства нашими силами".
+ 
+ VVM_generic_event.2.a:0 "Ok"
+ 
+ 
+ 
+ VVM_generic_event.5.t:0 "Адмирал [?ROOT.leader_to_remove_id.getName] Уходит в отставку"
+ VVM_generic_event.5.d:0 "[?ROOT.leader_to_remove_id.getName] решил уйти с действительной службы в возрасте [?ROOT.display_admiral_year] и больше не будет доступен для командования нашими флотами".
+ VVM_generic_event.5.a:0 "Ok"
+ 
+ # ранен осколками
+ VVM_generic_event.6.t:0 "[FROM.getName] Ранен!"
+ VVM_generic_event.6.d:0 "Во время посещения линии фронта во время последнего сражения, в отчаянной попытке остановить отступление, [FROM.getName] был ранен осколками и доставлен в полевой госпиталь. \n[FROM.getName] надеется вернуться на [FROM.GetHerHis] ноги в течение месяца или около того."
+ VVM_generic_event.6.a:0 "Завершение вызова"
+ 
+ # Командующий армией уходит в отставку из-за ранений
+ VVM_generic_event.7.t:0 "[FROM.getName] Тяжело ранен!"
+ VVM_generic_event.7.d_fm:0 "Вражеский снаряд упал на штаб [FROM.getName], как раз в тот момент, когда армейское командование покидало свои позиции. \n[FROM.getName] был так тяжело ранен, что сомнительно, что [FROM.GetSheHe] когда-нибудь вернется к действительной службе. [FROM.getName] родился в [?ROOT.VVM_born_year] и был [?ROOT.VVM_age], когда карьера [FROM.GetHerHis] закончилась."
+ VVM_generic_event.7.d_reckless:0 "Ведущий с фронта, как обычно, пытаясь удержать войска [FROM.GetHerHis], [FROM.getName] был поражен несколькими вражескими пулями. \n[FROM.getName] в настоящее время борется за жизнь [FROM.GetHerHis] в полевом госпитале, но независимо от исхода, [FROM.GetSheHe], скорее всего, никогда не вернется на действительную службу".
+ VVM_generic_event.7.d_cautious:0 "Случайный снаряд попал в заднюю часть линий [FROM.getName], когда [FROM.GetHerHis] готовился к отступлению. К сожалению, он попал довольно близко к тому месту, где в данный момент сидел [FROM.getName], и [FROM.getName] был тяжело ранен в результате взрыва. Нахождение так близко к полевому госпиталю означало, что хирургам удалось спасти жизнь [FROM.getName], но боевые дни [FROM.GetHerHis] определенно закончились. \n[FROM.getName] родился в [?ROOT.VVM_born_year]."
+ VVM_generic_event.7.d_cavalry:0 "[FROM.getName] бросился прямо в тыл врага, как в старые времена, когда пытался остановить разгром [FROM.GetHerHis] войск. Храбрая борьба в конце концов не помогла, и [FROM.getName] был сбит с лошади [FROM.GetHerHis] снарядом, разорвавшимся с близкого расстояния. \n Последние отступающие войска отнесли тело [FROM.getName] обратно на свои позиции. До сих пор неизвестно, выживет ли [FROM.getName], но, несомненно, это было последнее ура [FROM.getName]".
+ VVM_generic_event.7.d_gen:0 "[FROM.getName] был тяжело ранен во время посещения фронта во время последнего сражения и, вероятно, больше не будет руководить армией. Родился в [?ROOT.VVM_born_year], [FROM.getName] был [?ROOT.VVM_age], когда произошла трагедия, закончившая карьеру."
+ VVM_generic_event.7.a:0 "Грустно"
+ 
+ # Тяжело ранен 
+ VVM_generic_event.8.t:0 "[FROM.getName] Тяжело ранен"
+ Командный пункт VVM_generic_event.8.d:0 "[FROM.getName] был обстрелян во время последнего сражения. [FROM.getName] был ранен и доставлен в полевой госпиталь. \n[FROM.getName] полон решимости вернуться на передний план, но есть вопросы к тому, сможет ли [FROM.GetSheHe] полностью оправиться от пережитого".
+ VVM_generic_event.8.a:0 "Слишком плохо"
+ VVM_seriously_injured_tt:0 "Риск снижения одного или нескольких уровней квалификации"
+ 
+ # Дефект
+VVM_generic_event.9.t:0 "[FROM.getName] Дефекты!"
+ VVM_generic_event.9.d:0 "Проиграв последнюю битву, [FROM.getName] решил, что с [FROM.GetSheHe] хватит, и просто бросил [FROM.GetHerHis] войска".
+ VVM_generic_event.9.a:0 "Подождите, что?"
+ 
+ # Обвиняет Лидеров
+ VVM_generic_event.10.t:0 "[FROM.getName] Обвиняет [ROOT.GetLeader]"
+ VVM_generic_event.10.d:0 "Избранное СМИ [ИЗ.getName] подвергло резкой атаке [ROOT.GetRulingParty] в целом и [ROOT.GetLeader], в частности, когда давал интервью СМИ после последней битвы. \n [FROM.getName] утверждал, что разгром произошел из-за неправильного управления войной политиками. Если бы генералы могли управлять делами так, как они считали нужным, этого бы никогда не произошло".
+ VVM_generic_event.10.a:0 "Игра в вину"
+ 
+ # Дефект часть 2
+ VVM_generic_event.11.t:0 "[?ОТ.leader_to_defect_id.getName] присоединяется к [КОРНЮ.GetAdjective] армия!"
+ VVM_generic_event.11.d:0 "В немного неожиданном движении переместите [?ИЗ.leader_to_defect_id.getName] решил оставить наших врагов и перейти на нашу сторону. Война продолжается, и нам нужны люди, которые знают нашего врага, так что..."
+ VVM_generic_event.11.a:0 "До тех пор, пока [?FROM.leader_to_defect_id.Гетшехе] не шпион"
+ 
+ # Оставь надежду 
+ VVM_generic_event.12.t:0 "[FROM.getName] подавленное состояние после последней потери"
+ VVM_generic_event.12.d_fm:0 "Фельдмаршал [FROM.getName] отказался обвинять в последнем поражении [FROM.GetHerHis] генералов, заявив, что они сделали все возможное. Вместо этого [ОТ.GetSheHe] чувствует, что вся ситуация безнадежна".
+ VVM_generic_event.12.d_des:0 "Уже лишенный иллюзий [FROM.getName] утверждает, что последнее поражение на поле было не более чем ожидаемым. Далее он сказал окружающим его людям, что эта война - безнадежное дело. \n [FROM.GetSheHe] цитируется как сказавший, что [ROOT.GetLeader] должен сдаться сейчас, чтобы не тратить жизнь впустую". 
+ VVM_generic_event.12.d_generic:0 "Мрачный [FROM.getName] подал свой отчет после последнего поражения на поле. [FROM.getName] считает, что это только начало конца. Что в ближайшие дни и недели армия потерпит еще больше поражений. [FROM.GetSheHe], конечно, продолжит борьбу, но у [FROM.GetSheHe] мало надежды на успех в долгосрочной перспективе".
+ VVM_generic_event.12.a:0 "[FROM.getName], конечно, слишком остро реагирует"
+ 
+ # Разочарованный
+ VVM_generic_event.13.t:0 "[FROM.getName] мрачный после поражения"
+ VVM_generic_event.13.d_fm:0 "Фельдмаршал [FROM.getName] выглядел крайне мрачным после последней битвы. Его подчиненные сообщили, что он почти не разговаривал с ними во время допроса."
+ VVM_generic_event.13.d_generic:0 "Слухи циркулируют после последнего поражения [FROM.getName] на поле боя. Сообщается, что он бормотал себе под нос о борьбе за проигранное дело. Однако [FROM.GetSheHe] не высказал никаких официальных жалоб или мнений. \ n Армейское командование считает, что [FROM.getName] следует отслеживать."
+ VVM_generic_event.13.a:0 "Oh"
+ 
+ #Пристыженный
+ VVM_generic_event.14.t:0 "Честь[FROM.getName] запятнана"
+ VVM_generic_event.14.d:0 "[FROM.getName] чувствует, что [FROM.GetSheHe] подвел [FROM.GetHerHis] самурайскую родословную, не сумев победить [FROM.GetHerHis] врагов. \n [FROM.getName] полон решимости исправить эту ошибку или умереть, пытаясь.\ n Солдаты, служащие под командованием [FROM.getName], слышали, как они задавали вопросы [FROM.GetHerHis] руководству."
+ VVM_generic_event.14.a:0 "Интересно, что из этого выйдет"
+ VVN_ATTACK_TT:0 "Контратака"
+ 
+ #Сеппуку
+ VVM_generic_event.15.t:0 "Сэппуку"
+ VVM_generic_event.15.d:0 "Не сумев восстановить свою честь на поле битвы и проиграв еще одну битву, бесчестье стало слишком велико для [FROM.getName]. \n В честь своего самурайского происхождения [FROM.getName] покончил с собой при поддержке своего доверенного помощника.\ n В то время как они оплакивают потерю своего командира, солдаты, которые служили под командованием [FROM.getName], поклялись отомстить за его героическую смерть."
+ VVM_generic_event.15.a:0 "Шин но самурай"
+ 
+ #трус
+ VVM_generic_event.16.t:0 "[FROM.getName] обвиняется в трусости"
+ VVM_generic_event.16.d:0 "После последнего отступления коллеги-офицеры обвинили [FROM.getName] в трусости. Были сделаны заявления о том, что [FROM.getName] решил отказаться, когда еще был шанс выиграть. [FROM.getName] откровенно отрицает, что отступил преждевременно. Заявив вместо этого, что [ОТ.GetSheHe] был героем, спасая своих людей из опасного положения, которое угрожало уничтожить их всех".

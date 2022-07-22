@@ -1,0 +1,8 @@
+﻿l_russian:
+    Foreign_Equipment_Production:0 "Производство иностранного оборудования"
+    Leasing_Equipment_Production:0 "Производство лизингового оборудования"
+    Foreign_Scientist:0 "Принимающий Иностранный ученый"
+    Leasing_Foreign_Scientist:0 "Отправляющий ученый"
+    Foreign_Diplomats:0 "Прием иностранных дипломатов"
+    Leasing_Foreign_Diplomats:0 "Отправка дипломатов"
+    Отправил Запросы:0 "Недавно отправленные запросы"
